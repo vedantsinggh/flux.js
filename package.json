@@ -1,0 +1,12 @@
+{
+  "name": "flux",
+  "version": "1.0.0",
+  "description": "New javascript framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vedant Singh (vedantsinggh@gmail.com)",
+  "license": "MIT"
+}
